@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+/avatar.jpg
+/daisyui.css
+/portfolio.html
